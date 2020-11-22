@@ -7,7 +7,9 @@
 }
 
 .topptekst {
-heigth: 80px;
+  max-width: 100%;
+  
+heigth: auto;
 margin: auto;
 padding: 5px;
 }
