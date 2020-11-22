@@ -1,6 +1,12 @@
+.innpakning1 {
+  width: 900px;
+ flex-direction: column;
+  margin:auto;
+  display:flex;
+}
+
 .topptekst {
-width: 1440px;
 heigth: 120px;
 margin: auto;
-flex-direction: column;
+  padding: 5px;
 }
