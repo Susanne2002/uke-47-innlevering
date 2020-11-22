@@ -1,8 +1,9 @@
 .innpakning1 {
-  width: 900px;
+  width: 800px;
  flex-direction: column;
   margin:auto;
   display:flex;
+  background-color: #909090;
 }
 
 .topptekst {
