@@ -6,11 +6,11 @@
   background-color: #909090;
 }
 
-.topptekst {
+.bilde {
 max-width: 100%;
 heigth: auto;
-margin: auto;
-padding: 5px;
+margin: 0;
+padding: 0;
 }
 
 .innhold {
