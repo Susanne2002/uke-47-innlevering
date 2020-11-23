@@ -1,10 +1,3 @@
-.innpakning {
-  width: 80%;
- flex-direction: column;
-  margin:auto;
-  display:flex;
-  background-color: #909090;
-}
 
 .topptekst { 
   background-image: url("../media/La_Morra.jpeg");
