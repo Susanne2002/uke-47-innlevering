@@ -29,6 +29,7 @@
   width: 75vw;
   background-color: #909090;
   height: 75vh;
+  display: flex;
   
 }
 .ingress {
@@ -41,3 +42,8 @@
   
   
 .avsnitt1 {
+  
+  
+  
+  
+  
