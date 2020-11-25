@@ -32,14 +32,15 @@
 
   
 .Overskrifter {
-  width: 48%;
-  margin: auto;
+  width: 98%;
+  margin: 1%;
   }
   
   
 .avsnitt1 {
-  width:98%;
+  width:48%;
   margin:1%;
+  padding-top: 0px;
 }
 
 .avsnitt2 {
