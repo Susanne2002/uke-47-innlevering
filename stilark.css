@@ -32,20 +32,34 @@
 
   
 .Overskrifter {
+  width: 48%;
   margin: auto;
   }
   
   
 .avsnitt1 {
+  width:98%;
+  margin:1%;
 }
 
 .avsnitt2 {
+  width:64%;
+  margin:1%;
 }
 
 .boks {
+   width:29%;
+    margin:1%;
+    padding:1%;
+    background-color:#404040;
 }
 
 .footer {
+   height:60px;
+    background-color:#459B75;
+    color:white;
+    text-align:center;
+    padding-top: 15px;
 }
   
   
