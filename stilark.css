@@ -30,23 +30,23 @@
   flex-wrap: wrap;
   }
 
-
-.ingress {
-  margin: auto;
   
-.overskrift1 {
+.Overskrifter {
   margin: auto;
-  }
-
-  .bilde {
-    background-image: url(bilder/IMG_1252.JPG);
-      width: 60px;
-    
   }
   
   
 .avsnitt1 {
-  
+}
+
+.avsnitt2 {
+}
+
+.boks {
+}
+
+.footer {
+}
   
   
   
