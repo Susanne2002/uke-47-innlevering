@@ -8,6 +8,13 @@
   position: relative;
 }
 
+body{
+   
+    font-family:Helvetica,Arial;
+    font-size:18px;
+   
+}
+
 .topp {
   height: 350px;
 }
